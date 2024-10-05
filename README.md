@@ -1,6 +1,4 @@
 
-Sure! Here’s a revised version with a fresh tone:
-
 Hi there! 👋 I'm Anjana ES
 🌱 I’m a dedicated Full Stack Web Developer with a passion for crafting seamless and interactive User Interfaces. I’m on the lookout for a dynamic team to collaborate with on innovative projects that push boundaries.
 
@@ -24,6 +22,7 @@ LinkedIn: https://www.linkedin.com/in/anjana-sureshbabu130997/
 
 
 Languages and Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
