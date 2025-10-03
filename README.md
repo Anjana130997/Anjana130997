@@ -1,40 +1,100 @@
+<h1 align="center">Hi 👋, I'm Anjana E S</h1>
 
-Hi there! 👋 I'm Anjana ES
-🌱 I’m a dedicated Full Stack Web Developer with a passion for crafting seamless and interactive User Interfaces. I’m on the lookout for a dynamic team to collaborate with on innovative projects that push boundaries.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff79c6&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Tech+Enthusiast+💻;Lifelong+Learner+🌟;Problem+Solver+🚀" alt="Typing Animation" />
+  </a>
+</p>
 
-👩‍💻 What I Specialize In
+<h3 align="center">🚀 Building Projects | Exploring New Tech | Growing Every Day</h3>
 
-Full Stack Development: Creating responsive applications that deliver a smooth user experience from front to back.
-Front-End Development: Designing engaging and intuitive user interfaces that captivate users.
-Back-End Development: Building robust and scalable server-side solutions to power applications.
-💬 Let’s Chat About
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anjana130997&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/anjana130997?label=Followers&style=social" alt="followers" />
+</p>
 
-Front-End Technologies (HTML, CSS, JavaScript, React, etc.)
-Back-End Technologies (MySQL, MongoDB, etc.)
-Full Stack Development
-API Design and Integration
-🤝 Collaborate with Me I thrive on teamwork and am eager to partner on exciting and creative projects. If you're seeking a passionate developer to join your efforts, let’s connect!
+---
 
-📫 Get in Touch
+### 🔭 About Me
+<table>
+<tr>
+<td>
 
-Email: anjana130997@gmail.com
-LinkedIn: https://www.linkedin.com/in/anjana-sureshbabu130997/
+- 🌱 I’m currently learning **System Design**  
+- 🔭 Working on a **Real Estate Application** project  
+- 👩‍💻 All my projects are available at [Portfolio Website](https://anjana130997portfolio.netlify.app/)  
+- 📫 Reach me at **anjana130997@gmail.com**  
+- ⚡ Fun fact: *I debug more than I sleep 😄*  
 
+</td>
+<td>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVrcXBtaXFuNHdqa3M0ejJ0NDJmNnQ0dHExeDk2ajV1NjJxNjhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Professional Coding Animation">
+</td>
+</tr>
+</table>
 
-Languages and Tools
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+### 👩‍💻 What I Specialize In
+- **Full Stack Development:** Creating responsive applications with seamless front-end and back-end integration.  
+- **Front-End Development:** Designing interactive and intuitive user interfaces that engage users.  
+- **Back-End Development:** Building robust and scalable server-side applications.  
+- **UI/UX Design:** Crafting clean and attractive designs for a smooth user experience.  
+- **Problem Solving:** Analyzing challenges and implementing effective solutions.  
+- **Collaboration & Communication:** Working well in teams to deliver high-quality projects.  
+- 💬 Let’s chat about coding, new tech, or collaboration opportunities!
 
+---
 
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/anjana-sureshbabu130997/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/@anjana130997" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/anjana_e_s" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="mailto:anjana130997@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,python,mongodb,mysql,bootstrap,sass,tailwind,firebase,postman,illustrator" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anjana130997&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjana130997&show_icons=true&theme=radical&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjana130997&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+</p>
+
+---
+
+### 💻 Coding Contributions (Animated Graph)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Coding Contribution Graph" width="600"/>
+</p>
+
+---
+
+### 🏆 Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anjana130997&theme=radical&margin-w=10&margin-h=10" alt="trophies" />
+</p>
+
+---
+
+⭐️ From [Anjana E S](https://github.com/anjana130997)
