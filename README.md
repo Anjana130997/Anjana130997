@@ -83,12 +83,6 @@
 
 ---
 
-### 💻 Coding Contributions (Animated Graph)
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Coding Contribution Graph" width="600"/>
-</p>
-
----
 
 ### 🏆 Achievements & Badges
 <p align="center">
